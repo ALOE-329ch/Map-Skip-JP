@@ -1,0 +1,17 @@
+title: PR Map Skip 日本語版
+originalAuthor: Mod作者:Num 日本語化:ALOE_329ch
+description: ポートロイヤルの船で行き先を選択する地図画面をダイアログ選択肢に変更して、クラッシュを防ぎます。
+assets:
+- name: msg/jp/ca.bar
+  method: binarc
+  source:
+  - name: ca
+    type: list
+    method: kh2msg
+    source:
+    - name: ca.yml
+      language: jp
+- name: libretto-ca.bar
+  method: copy
+  source:
+  - name: libretto-ca.bar

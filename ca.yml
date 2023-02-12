@@ -1,0 +1,36 @@
+﻿- id: 0x183C
+  jp: >-
+    {:unk08 02 00 06}どこへ泳く?
+
+    {:chardelay 3C 00}ポートロイヤル
+
+    {:chardelay 3D 00}ブラックパールごう
+
+    {:chardelay 00 00}やめる
+- id: 0x183D
+  jp: >-
+    {:unk08 02 00 06}どこへ泳く?
+
+    {:chardelay 3C 00}ポートロイヤル
+
+    {:chardelay 00 00}やめる
+- id: 0x183E
+  jp: >-
+    {:unk08 02 00 06}どこへ泳く?
+
+    {:chardelay 3C 00}ポートロイヤル
+
+    {:chardelay 3E 00}認の道
+
+    {:chardelay 00 00}やめる
+- id: 0x183F
+  jp: >-
+    {:unk08 02 00 06}どこへ泳く?
+
+    {:chardelay 3C 00}ポートロイヤル
+
+    {:chardelay 3E 00}認の道
+
+    {:chardelay 3F 00}犬のはか時
+
+    {:chardelay 00 00}やめる
